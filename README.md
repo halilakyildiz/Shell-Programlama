@@ -16,6 +16,7 @@ Batch modda ise program çalıştırılırken programa ikinci bir argüman veril
   >Porgamın interaktif modda çalışma şekkli : ./shell
   
   >Programın batch  modda çalışma şekli : ./shell batch.txt
+  
 Batch.txt burada bir text dosyasıdır ve örnek verilmiltir. Başka bir text dosyası ya da herhangi bir okunabilir dosya olabilir.
 
 
