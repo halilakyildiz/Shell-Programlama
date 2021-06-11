@@ -29,7 +29,9 @@ Diğer önemli  bir nokta ise birden fazla komut icrası. Kullanıcı tek satır
  
  >Çıktı :  
  >tesyazisi2  
+ >
  >test_yazisi3
+ >
  >test_yazisi  
  >yada bunun diğer kombinasyonları olabilir.
 
