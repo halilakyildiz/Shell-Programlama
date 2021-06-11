@@ -38,3 +38,4 @@ Diğer önemli  bir nokta ise birden fazla komut icrası. Kullanıcı tek satır
  
 Böylece birden fazla komut eş zamanlı yürütülebilmektedir. Bu durumda her bir komut için bir alt proses oluşturulur ve eşzamanlılık sağlanır.
 
+Program batch modda ya da interaktif modda "quit" komutunu görünce sonlanmaktadır. Ayrıca interaktif modda Ctrl+D tuşlamasında da sonlanmaktadır.
