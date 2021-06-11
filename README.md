@@ -33,6 +33,8 @@ Diğer önemli  bir nokta ise birden fazla komut icrası. Kullanıcı tek satır
  >test_yazisi3
  >
  >test_yazisi  
+ >
  >yada bunun diğer kombinasyonları olabilir.
-
+ 
+Böylece birden fazla komut eş zamanlı yürütülebilmektedir. Bu durumda her bir komut için bir alt proses oluşturulur ve eşzamanlılık sağlanır.
 
