@@ -1,0 +1,2 @@
+cat deneme.txt;ls
+echo deneme;ls
