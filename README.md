@@ -28,11 +28,11 @@ Diğer önemli  bir nokta ise birden fazla komut icrası. Kullanıcı tek satır
  >Komut : echo test_yazisi;echo test_yazisi2;echo test_yazisi3
  
  >Çıktı :  
- >  tesyazisi2  
+   >  tesyazisi2  
  >
- >  test_yazisi3
+  >  test_yazisi3
  >
- >  test_yazisi  
+   >  test_yazisi  
  >
  >yada bunun diğer kombinasyonları olabilir.
  
