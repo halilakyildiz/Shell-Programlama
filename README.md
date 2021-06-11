@@ -32,7 +32,7 @@ Diğer önemli  bir nokta ise birden fazla komut icrası. Kullanıcı tek satır
  >
  > test_yazisi3
  >
- > \ttest_yazisi  
+ > test_yazisi  
  >
  >yada bunun diğer kombinasyonları olabilir.
  
